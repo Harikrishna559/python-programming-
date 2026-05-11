@@ -1,5 +1,5 @@
-# python-programming-
-day 1 #
+# python-programming
+# Even or Odd Checker 
 
 num = int(input("enter number ")
 if num % 2 == 0:
